@@ -24,14 +24,7 @@
 
  <main>
 <center>
-       
-        <h3>
-         
-Меня зовут Оля Крюкова. Обучаюсь в университете <a href="https://www.hse.ru/">Высшая школа экономики.</a></h3>
-       
-
-
-     
+ <h3>Меня зовут Оля Крюкова. Обучаюсь в университете <a href="https://www.hse.ru/">Высшая школа экономики.</a></h3>
 </main>
  <nav>
 <h4>
@@ -39,7 +32,7 @@
      <li><a href="pic.html">Графическая информация</a>
        <li><a href="insert.html">Поля ввода</a></li>
      
-         <li><a href="feedback.html">Обратная связь</a></li>
+  <li><a href="feedback.html">Обратная связь</a></li>
          
 
 </h4>
@@ -50,10 +43,10 @@
 <div style="position: relative; width: 600px; height: 800px;">    
     <div style="position: absolute; bottom: 5px; color: blue">
 
-    <p>All rights reserved</p>
+   <p>All rights reserved</p>
 Strogino, 2024</p>
 
-    </div>
+   </div>
 </div>
    </footer>
 </body>
