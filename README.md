@@ -25,6 +25,9 @@
   <li><a href="pic.html">Графическая информация</a>
   <li><a href="insert.html">Поля ввода</a></li>
   <li><a href="feedback.html">Обратная связь</a></li>
+  <li><a href="text.html">Текст</a></li>
+  <li><a href="animation.html">Анимация</a></li>
+  <li><a href="position.html">Позиция</a></li>
  </h4>
 </nav>
 
