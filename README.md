@@ -28,6 +28,7 @@
   <li><a href="text.html">Текст</a></li>
   <li><a href="animation.html">Анимация</a></li>
   <li><a href="position.html">Позиция</a></li>
+  <li><a href="chat.html">Виртуальный чат</a></li>
  </h4>
 </nav>
 
