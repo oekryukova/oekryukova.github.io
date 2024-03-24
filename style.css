@@ -1,0 +1,37 @@
+p {
+  color: black;
+  border-style:solid;
+  border-width:2px;
+  border-color:green;
+}
+span {
+  padding:10px;
+  color: red;
+}
+
+span.border {
+  color: black;
+  border-style:dot-dash;
+  border-width:1px;
+  border-color:green;
+
+}
+
+span.verb {
+  background-color:pink;
+}
+.term {
+  color: blue;
+  background-color:pink !important;
+}
+.verb {
+color: black;
+  background-color:pink;
+}
+
+div:hover{
+  background-color:green;
+  font-size:36px;
+  color:black;
+}
+

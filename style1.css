@@ -1,0 +1,53 @@
+animation {
+  animation-delay: 0s, 0s, 11s;
+  animation-duration: 10s, 10s, 5s;
+  animation-name: slidein, anim_color, fadeOut;
+  animation-iteration-count: 1, 1, 1;
+  animation-direction: alternate;
+  
+
+}
+
+@keyframes slidein { 
+  from {
+    margin-left: 200%;
+    width: 200%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 50%;
+  }
+  
+  75% {
+    font-size: 300%;
+    margin-left: 25%;
+    width: 150%;
+  }
+}
+
+@keyframes fadeOut { 
+  from {
+    opacity:1;
+  }
+
+  to {
+    opacity:0;
+  }
+
+}
+
+@keyframes anim_color { 
+  from {
+    color:black;
+  }
+
+  to {
+    font-width: bolder;
+    color:green;
+  }
+  
+  75% {
+    color:green;
+  }
+}

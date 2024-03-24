@@ -1,0 +1,26 @@
+#root {
+  font-size:22px;  
+
+}
+
+#test {
+  width:6em;
+  height:6em;
+  border: dashed;
+  overflow-y:scroll;
+}
+#t1{
+  border: solid;
+  width:100px;
+}
+#t2{
+  border: solid;
+  border-color:red;
+  width:100px;
+  height:100px;
+
+}
+p{
+  border-width:1px;
+  border-style:solid;
+}
